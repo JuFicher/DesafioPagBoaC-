@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Acer\Documents\ADS\2021 2º Sem\C#\DesafioPagBoa\FreteBrinde\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
